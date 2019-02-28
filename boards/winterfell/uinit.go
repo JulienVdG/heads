@@ -19,7 +19,7 @@ var (
 		"/bbin/insmod /lib/modules/libata.ko",
 		"/bbin/insmod /lib/modules/libahci.ko",
 		"/bbin/insmod /lib/modules/ahci.ko",
-		"/bbin/rsdp",
+		"/bbin/insmod /lib/modules/e1000e.ko",
 	}
 )
 
