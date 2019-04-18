@@ -20,6 +20,7 @@ var (
 		"/bbin/insmod /lib/modules/libahci.ko",
 		"/bbin/insmod /lib/modules/ahci.ko",
 		"/bbin/insmod /lib/modules/e1000e.ko",
+		"/bbin/getty ttyS1 0 vt100",
 	}
 )
 
